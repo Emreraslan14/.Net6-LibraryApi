@@ -1,0 +1,17 @@
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.deps.json
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.dll
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.pdb
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.Entity.dll
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.Entity.pdb
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.csproj.AssemblyReference.cache
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.AssemblyInfoInputs.cache
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.AssemblyInfo.cs
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.csproj.CoreCompileInputs.cache
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.csproj.CopyComplete
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.dll
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\refint\SummerSchool.DataAccess.InMemoryList.dll
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\SummerSchool.DataAccess.InMemoryList.pdb
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\obj\Debug\net6.0\ref\SummerSchool.DataAccess.InMemoryList.dll
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.DataAccess.dll
+C:\Users\deniz.arman\OBSS\Repositories\SummerSchool\Infrastructure\SummerSchool.DataAccess.InMemoryList\bin\Debug\net6.0\SummerSchool.DataAccess.pdb

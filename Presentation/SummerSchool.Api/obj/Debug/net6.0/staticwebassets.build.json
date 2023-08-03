@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z8OesDJMXZLAqDRsVTN82ptXshCO3mZdGp3lhPcSPY0=",
+  "Source": "SummerSchool.Api",
+  "BasePath": "_content/SummerSchool.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
