@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNcYz7UhlPtLsnpTVas/YGm8HudkQgL9a2MyBf4N58IJvrNGZ5IIIlrVolFnZluW9Y6hwWvjn8Hy2bgWGez/qg==",
+  "dgSpecHash": "2Ec1kHAoqoP2V+DPikn0ibIVTwFEypOGes3ZPwU2HhS8t0ovLzW1J7ipchDOstlbq7dLu33bq/ngSek9t71dnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Infrastructure\\SummerSchool.DataAccess.MsSql\\SummerSchool.DataAccess.MsSql.csproj",
+  "projectFilePath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Infrastructure\\SummerSchool.DataAccess.MsSql\\SummerSchool.DataAccess.MsSql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emre\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj": {}
+    "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj": {
+    "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj",
+        "projectUniqueName": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj",
         "projectName": "SummerSchool.DataAccess",
-        "projectPath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj",
+        "projectPath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\SummerSchool.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\obj\\",
+        "outputPath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj": {
-                "projectPath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj"
+              "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj": {
+                "projectPath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj"
               }
             }
           }
@@ -63,25 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj": {
+    "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj",
+        "projectUniqueName": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj",
         "projectName": "SummerSchool.Entity",
-        "projectPath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj",
+        "projectPath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\SummerSchool.Entity.csproj",
         "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\obj\\",
+        "outputPath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Core\\SummerSchool.Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pf+CQ+PwXKxRxBPUmwEW4V/oPv53RunnroWxZvXVkC8saMudvCj2FicFGQMJHKngJMvoRFzfB7MUC/+5trD68Q==",
+  "dgSpecHash": "3zo9KopmI4pbUXjiQ6q/M6BEFHwI3peoGtIQ8hL9E+tkZyF8LAoELtQ02RkbNtsvRIUFEkC3sCK41dXtvGsa8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emre\\Desktop\\yazılım\\c#\\Staj\\SummerSchool\\Presentation\\SummerSchool.Api\\SummerSchool.Api.csproj",
+  "projectFilePath": "D:\\Yazılım\\c#\\Staj\\SummerSchool\\Presentation\\SummerSchool.Api\\SummerSchool.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emre\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
